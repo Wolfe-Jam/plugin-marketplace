@@ -496,7 +496,7 @@
         ],
         "skills": [
           {
-            "name": "faf-context",
+            "name": "faf-load-context",
             "description": "Auto-discover and load project.faf as the single source of truth for project context inside Grok Build. Use at session…"
           },
           {
